@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Soft UI Design System - v1.0.5
+* Best Joga Team - v1.0.5
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/soft-ui-design-system

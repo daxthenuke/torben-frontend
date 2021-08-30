@@ -1,10 +1,10 @@
-# [Soft UI Design System](http://demos.creative-tim.com/soft-ui-design-system/presentation.html?ref=readme-suds) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-design-system&text=Check%20Soft%20UI%20Design%20System%20made%20by%20@CreativeTim%20#webdesign%20#designSystem%20#softDesign%20#html%20https://www.creative-tim.com/product/soft-ui-design-system)
+# [Best Joga Team](http://demos.creative-tim.com/soft-ui-design-system/presentation.html?ref=readme-suds) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-design-system&text=Check%20Soft%20UI%20Design%20System%20made%20by%20@CreativeTim%20#webdesign%20#designSystem%20#softDesign%20#html%20https://www.creative-tim.com/product/soft-ui-design-system)
 
 ![version](https://img.shields.io/badge/version-1.0.5-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-design-system.svg?maxAge=2592000)](https://github.com/creativetimofficial/soft-ui-design-system/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-design-system.svg?maxAge=2592000)](https://github.com/creativetimofficial/soft-ui-design-system/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/opt_sds_free_thumbnail.jpg)
 
-Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+Best Joga Team is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Freebie Bootstrap 5 UI Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
@@ -39,7 +39,7 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML |
 | --- |
-| [![Soft UI Design System HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/opt_sds_free_thumbnail.jpg)](http://demos.creative-tim.com/soft-ui-design-system/presentation.html?ref=readme-suds)
+| [![Best Joga Team HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/opt_sds_free_thumbnail.jpg)](http://demos.creative-tim.com/soft-ui-design-system/presentation.html?ref=readme-suds)
 
 ## Demo
 
@@ -63,7 +63,7 @@ Quick start options:
 2. Navigate to the root / directory and run npm install to install our local dependencies.
 
 ## Documentation
-The documentation for the Soft UI Design System is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-design-system?ref=readme-suds).
+The documentation for the Best Joga Team is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-design-system?ref=readme-suds).
 
 ### What's included
 
@@ -107,9 +107,9 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/soft-ui-design-system/issues)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Soft UI Design System. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Best Joga Team. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Soft UI Design System. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-design-system?ref=readme-suds).
+1. Make sure that you are using the latest version of the Best Joga Team. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-design-system?ref=readme-suds).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
